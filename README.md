@@ -7,6 +7,10 @@ downloads while closed and put away.
 **Left-click** the tray icon to enable stay-awake mode.
 **Left-click again** to restore your original settings.
 
+## Screenshot
+
+![Clam tray icon and menu](docs/screenshot.png)
+
 ## What it does
 
 | State | Lid-close action | Idle-sleep timeout |
